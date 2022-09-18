@@ -12,7 +12,7 @@ Para a execução adequada do conteúdo dos Jupyter Notebooks, instale as biblio
 
 ---
 
-## Prática 01 - Processamento dos dados
+## [Prática 01 - Processamento dos dados](https://nbviewer.org/github/brenoslivio/CompVis_ICMC/blob/main/Pratica_01/Pratica_01.ipynb)
 
 
 ---
