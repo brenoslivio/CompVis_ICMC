@@ -1,5 +1,6 @@
 name: viscomp
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
@@ -18,8 +19,8 @@ dependencies:
   - brotli-bin=1.0.9=h5eee18b_7
   - brotlipy=0.7.0=py39hb9d737c_1004
   - bzip2=1.0.8=h7b6447c_0
-  - ca-certificates=2022.9.14=ha878542_0
-  - certifi=2022.9.14=pyhd8ed1ab_0
+  - ca-certificates=2022.07.19=h06a4308_0
+  - certifi=2022.6.15=py39h06a4308_0
   - cffi=1.15.1=py39h74dc2b5_0
   - charset-normalizer=2.1.1=pyhd8ed1ab_0
   - cryptography=37.0.4=py39hd97740a_0
@@ -116,12 +117,13 @@ dependencies:
   - nbformat=5.3.0=py39h06a4308_0
   - ncurses=6.3=h5eee18b_3
   - nest-asyncio=1.5.5=py39h06a4308_0
+  - networkx=2.8.4=py39h06a4308_0
   - notebook=6.4.11=py39h06a4308_0
   - nspr=4.33=h295c915_0
   - nss=3.74=h0370c37_0
   - numba=0.53.1=py39ha9443f7_0
   - numpy=1.21.4=py39hdbf815f_0
-  - openssl=1.1.1q=h166bdaf_0
+  - openssl=1.1.1q=h7f8727e_0
   - packaging=21.3=pyhd3eb1b0_0
   - pandas=1.4.4=py39h1832856_0
   - pandocfilters=1.5.0=pyhd3eb1b0_0
@@ -193,6 +195,7 @@ dependencies:
   - websocket-client=1.4.1=pyhd8ed1ab_0
   - wheel=0.37.1=pyhd3eb1b0_0
   - widgetsnbextension=4.0.3=pyhd8ed1ab_0
+  - wordcloud=1.8.2.2=py39hb9d737c_1
   - xz=5.2.5=h7f8727e_1
   - yaml=0.2.5=h7b6447c_0
   - zeromq=4.3.4=h2531618_0
