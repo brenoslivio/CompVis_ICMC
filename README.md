@@ -14,6 +14,12 @@ Para a execução adequada do conteúdo dos Jupyter Notebooks, instale as biblio
 
 ## [Prática 01 - Processamento dos dados](https://nbviewer.org/github/brenoslivio/CompVis_ICMC/blob/main/Pratica_01/Pratica_01.ipynb)
 
+Nesta prática foi introduzida a parte de processamento de dados utilizando ferramentas principais como Pandas, e técnicas diversas para o processamento adequado de dados antes da visualização.
+
+## [Prática 02 - Visualização de dados](https://nbviewer.org/github/brenoslivio/CompVis_ICMC/blob/main/Pratica_02/Pratica_02.ipynb)
+
+Com conhecimentos em processamento de dados, nos voltamos agora com a questão de como visualizar os dados. Exploramos diversos tipo de visualizações de acordo com o tipo dos dados disponíveis, principalmente se baseando em visualizações de catálogos como o [From data to Viz](https://www.data-to-viz.com/).
+
 
 ---
 
