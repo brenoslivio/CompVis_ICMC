@@ -3,10 +3,10 @@ services:
   datascience-notebook:
       image:            jupyter/datascience-notebook
       volumes:
-        - /SEU/DIRETORIO/AQUI:/home/jovyan/work
+        - /home/brenoslivio/Documents/USP/CompVis_ICMC:/home/jovyan/work
       environment:
         GRANT_SUDO: "yes"
-        #JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ENABLE_LAB: "yes"
       user: root
       ports:
         - 8888:8888

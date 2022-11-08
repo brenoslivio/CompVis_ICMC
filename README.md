@@ -8,7 +8,7 @@ Material base de Eric Macedo Cabral.
 
 ---
 
-Para a execução adequada do conteúdo dos Jupyter Notebooks, instale as bibliotecas com suas respectivas versões descritas no arquivo `viscomp-conda.yml`. Instruções para instalar pelo Conda se encontram no fim deste README.
+Para a execução adequada do conteúdo dos Jupyter Notebooks, instale as bibliotecas com suas respectivas versões descritas no arquivo `environment.yml`. Instruções para instalar pelo Conda se encontram no fim deste README.
 
 ---
 
@@ -40,7 +40,7 @@ export PATH=~/miniconda3/bin:$PATH
 2 - Criar ambiente no Conda:
 
 ```bash
-conda env create -f viscomp-conda.yml
+conda env create -f environment.yml
 ```
 
 3 - Ativar ambiente:
